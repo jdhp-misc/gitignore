@@ -49,14 +49,14 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
+# Django stuff
 *.log
 local_settings.py
 
 # Flask instance folder
 instance/
 
-# Scrapy stuff:
+# Scrapy stuff
 .scrapy
 
 # Sphinx documentation
@@ -86,3 +86,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Vim swap files
+*.swp
+
+# Emacs temporary files
+*~
+
+# MacOSX Thumbnail files
+.DS_Store
+
+# Windows Thumbnail files
+Thumbs.db
